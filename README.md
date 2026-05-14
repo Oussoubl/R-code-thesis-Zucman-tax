@@ -1,6 +1,6 @@
 # R-code-thesis-Zucman-tax
 
-Ce dépôt contient l'intégralité du code source R et des modèles de simulation utilisés pour mon mémoire de Master 2 en macroéconomie internationale. Ce travail permet d'analyser l'impact d'une taxe mondiale de 2% du patrimoine des plus grandes fortunes sur les trois variables suivantes : investissement productif, innovation et croissance.
+Ce dépôt contient l'intégralité du code source R et des modèles de simulation utilisés pour mon mémoire de Master 2 en macroéconomie internationale, donc toute réutilisation académique doit etre correctement citée. Ce travail permet d'analyser l'impact d'une taxe mondiale de 2% du patrimoine des plus grandes fortunes sur les trois variables suivantes : investissement productif, innovation et croissance. 
 
 # Objectifs de la recherche
 
